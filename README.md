@@ -1,2 +1,2 @@
 # firefox-themes
-A collection of themes made by me
+A collection of themes I made. 
