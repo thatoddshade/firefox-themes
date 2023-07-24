@@ -1,0 +1,49 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Yellow Half-Dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-017-7074520d97b5c592d413aed5f115f093.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(88, 52, 90)",
+      "toolbar_text": "rgb(251, 185, 84)",
+      "frame": "rgb(69, 41, 63)",
+      "frame_inactive": "rgb(79, 47, 77)",
+      "tab_selected": "rgb(251, 185, 84)",
+      "tab_text": "rgb(88, 52, 90)",
+      "tab_background_text": "rgb(230, 144, 78)",
+      "toolbar_field": "rgb(251, 185, 84)",
+      "toolbar_field_text": "rgb(69, 41, 63)",
+      "toolbar_field_border_focus": "rgb(122, 48, 69)",
+      "toolbar_field_highlight": "rgb(69, 41, 63)",
+      "toolbar_field_highlight_text": "rgb(251, 185, 84)",
+      "tab_line": "rgb(251, 185, 84)",
+      "popup": "rgb(251, 185, 84)",
+      "popup_text": "rgb(69, 41, 63)",
+      "ntp_background": "rgb(230, 144, 78)",
+      "ntp_text": "rgb(69, 41, 63)",
+      "popup_border": "rgb(88, 52, 90)",
+      "popup_highlight_text": "rgb(251, 185, 84)",
+      "popup_highlight": "rgb(69, 41, 63)",
+      "sidebar": "rgb(88, 52, 90)",
+      "sidebar_border": "rgb(160, 113, 74)",
+      "sidebar_highlight_text": "rgb(69, 41, 63)",
+      "sidebar_highlight": "rgb(251, 185, 84)",
+      "sidebar_text": "rgb(251, 185, 84)",
+      "tab_loading": "rgb(69, 41, 63)",
+      "icons_attention": "rgb(88, 52, 90)"
+    }
+  }
+}
